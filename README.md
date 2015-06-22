@@ -9,7 +9,7 @@
 Implementation of sorting algorithms as node machines.
 
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-sort.svg)](http://badge.fury.io/js/machinepack-sort) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-sort.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-sort)
+## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-sort.svg)](http://badge.fury.io/js/machinepack-sort)
 
 ```sh
 $ npm install machinepack-sort
