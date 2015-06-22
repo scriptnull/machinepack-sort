@@ -23,11 +23,16 @@ module.exports = {
 
 
   exits: {
+  
+    error: {
+      description: 'Unexpected error occurred.',
+      variableName: 'err'
+    },
     
     success: {
-      description: 'Done.',
       variableName : 'sortedArray' ,
-      description : 'Contains the sorted array.'
+      description : 'Result will contain the sorted array.' ,
+      example : [1,2,3,4,5]
     }
 
   },

@@ -22,7 +22,12 @@
     "friendlyName": "Sort",
     "machineDir": "machines/",
     "machines": [
-      "insertion-sort"
+      "insertion-sort",
+      "selection-sort"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scriptnull/machinepack-sort.git"
   }
 }
