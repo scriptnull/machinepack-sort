@@ -1,6 +1,6 @@
 {
   "name": "machinepack-sort",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Implementation of sorting algorithms as node machines.",
   "scripts": {
     "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
