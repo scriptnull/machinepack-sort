@@ -24,7 +24,8 @@
     "machines": [
       "insertion-sort",
       "selection-sort",
-      "bubble-sort"
+      "bubble-sort",
+      "merge-sort"
     ]
   },
   "repository": {
